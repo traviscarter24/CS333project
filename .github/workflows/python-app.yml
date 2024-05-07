@@ -40,4 +40,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: traviscarter24/cs33project:latest
+        tags: traviscarter24/cs333project:tagname
